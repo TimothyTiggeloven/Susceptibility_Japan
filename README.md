@@ -4,7 +4,9 @@ Deep learning models for natural hazard susceptibility mapping using convolution
 
 ## Overview
 
-This repository contains CNN-based models for predicting susceptibility to natural hazards including landslides, floods, tsunamis, and multi-hazard scenarios. The framework supports base models, ensemble methods, and meta-learning approaches.
+This repository contains CNN-based models for predicting susceptibility to natural hazards including landslides, floods, tsunamis, and multi-hazard scenarios. The framework supports base models, ensemble methods, and meta-learning approaches. Methodological paper can be found here: https://doi.org/10.1175/AIES-D-25-0039.1. 
+
+Please cite as: Tiggeloven, T., Ferrario, D. M., Claassen, J. N., Jäger, W. S., Shapovalova, Y., Koyama, M., de Ruiter, M.C., Daniell, J.E., Torresan, S. & Ward, P. J. (2025). A Global Approach for Mapping Multi-Hazard Susceptibility Using Deep Learning: A Case Study in Japan. Artificial Intelligence for the Earth Systems, 4(4), 250039.
 
 ## Models
 
